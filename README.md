@@ -43,11 +43,11 @@ Developed by:LAL RHIDHISHAN R, RegisterNumber:25015767*/
 <img width="1589" height="880" alt="Screenshot 2025-11-20 180058" src="https://github.com/user-attachments/assets/61afd7f2-8541-462a-9676-15b7fb374e21" />
 
 **Output:**
-<img width="1498" height="719" alt="Screenshot 2025-11-20 180802" src="https://github.com/user-attachments/assets/3a340876-7af4-447d-8ada-b30622b295cb" />
 
 **RTL**
 
 **Timing Diagram**
+<img width="1244" height="910" alt="Screenshot 2025-11-21 182801" src="https://github.com/user-attachments/assets/0acd2221-1092-4e24-81cb-74b27d7a62d5" />
 
 **Result:**
 
